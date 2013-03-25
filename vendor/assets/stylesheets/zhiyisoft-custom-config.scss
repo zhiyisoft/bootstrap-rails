@@ -1,14 +1,13 @@
+@charset "utf-8";
 $baseFontSize: 12px;
-$baseFontFamily:Arial,'Microsoft YaHei';
-.navbar-fixed-top .brand {
-  padding-right: 0;
-  padding-left: 0;
-  margin-left: 20px;
-  float: right;
-  font-size: 12px;
-  text-shadow: 0 1px 0 rgba(255,255,255,.1), 0 0 30px rgba(255,255,255,.125);
-  -webkit-transition: all .2s linear;
-     -moz-transition: all .2s linear;
-          transition: all .2s linear;
-}
+
+$navbarBorder: #e5e5e5;
+
+$navbarBackground:#f3f3f3;
+$navbarLinkColor: #333;
+$navbarLinkColorActive: #333;
+
+
+
+
 
