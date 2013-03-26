@@ -1,13 +1,15 @@
-@charset "utf-8";
 $baseFontSize: 12px;
-
 $navbarBorder: #e5e5e5;
-
 $navbarBackground:#f3f3f3;
 $navbarLinkColor: #333;
 $navbarLinkColorActive: #333;
-[class^="icon-"]{font-size:14px;margin-right:3px;}
-.icon-home{color:#3A87AD;font-size:16px;}
+[class^="icon-"]{
+    font-size:14px;margin-right:3px;
+}
+
+.icon-home{
+    color:#3A87AD;font-size:16px;
+}
 
 
 
