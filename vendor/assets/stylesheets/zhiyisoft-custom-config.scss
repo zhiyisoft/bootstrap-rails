@@ -14,5 +14,30 @@ button.btn, input.btn[type="submit"] {
 .text-large {
   font-size: +120%;
 }
-.text-xlarge{font-size:+150%;}
-.margin-right5{margin-right:5px;}
+.text-xlarge{
+   font-size: +150%;
+}
+
+.warning{
+    color: #f89406;
+}
+.success{
+    color: #468847;
+}
+.warning{
+    color: #F89406;
+}
+.inportant{
+    color: #B94A48;
+}
+.info{
+    color: #3A87AD;
+}
+.invserse{
+    color: #333333;
+}
+
+.margin-right5{
+ margin-right: 5px;
+}
+
